@@ -1,0 +1,17 @@
+# Virtual ortalıq
+.venv_blog_api_project/
+.venv_blog_api_project_linux/
+
+# Python waqtınsha faylları
+__pycache__/
+*.pyc
+
+# Maǵlıwmatlar bazası
+db.sqlite3
+
+# Sır maǵlıwmatlar
+.env
+
+# IDE sazlawları (VS Code, PyCharm)
+.idea/
+.vscode/
