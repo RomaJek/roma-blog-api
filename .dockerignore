@@ -1,0 +1,8 @@
+.venv_blog_api_project/
+.venv_blog_api_project_linux/
+.git/
+.env.example
+.gitignore
+__pycache__/
+*.pyc
+db.sqlite3
