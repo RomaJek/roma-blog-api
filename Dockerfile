@@ -1,5 +1,5 @@
 # 1. Base Image: Python 3.9 dıń jeńil (slim) versiyasın alamız
-FROM python:3.9-slim
+FROM python:3.13-slim
 
 # 2. Python ortalıq ózgeriwshileri (optimizaciya)
 # .pyc fayllardı jazbaw ushın (diskke jazıwdı azaytadı)
