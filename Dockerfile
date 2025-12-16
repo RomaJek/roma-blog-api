@@ -3,9 +3,9 @@ FROM python:3.13-slim
 
 # 2. Python ortalıq ózgeriwshileri (optimizaciya)
 # .pyc fayllardı jazbaw ushın (diskke jazıwdı azaytadı)
-ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONDONTWRITEBYTECODE=1
 # Loglardı buferlemey, tikkeley terminalǵa shıǵarıw ushın
-ENV PYTHONUNBUFFERED 1
+ENV PYTHONUNBUFFERED=1
 
 # 3. Jumıs papkası: Konteyner ishindegi /app papkasında isleymiz
 WORKDIR /app
