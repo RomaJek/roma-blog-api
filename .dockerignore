@@ -1,7 +1,7 @@
 .venv_blog_api_project/
 .venv_blog_api_project_linux/
 .git/
-.env.example
+.env
 .gitignore
 __pycache__/
 *.pyc
